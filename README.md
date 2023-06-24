@@ -6,6 +6,7 @@
 2. Type of Travel
 3. Hotel wifi service
 4. Ease of Online booking
+
 Остальные фичи выделяются менее сильно, однако видно, что они также имеют корреляцию с satisfaction, в особенности фичи связанные с Rate
 Фичи считающиеся моделью важными после обучения
 1. Type of Booking
